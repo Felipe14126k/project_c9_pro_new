@@ -19,7 +19,7 @@ function draw()
     background("blue");
     
   }
- 
+  
     if (keyIsDown(UP_ARROW)) 
   {
     background("yellow");
